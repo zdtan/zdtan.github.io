@@ -1,7 +1,9 @@
 ## Some physics simulations
 
 [Two-body gravitation](https://zdtan.github.io/EjsS-2bodygrav/)
+
 [Two-body spring system](https://zdtan.github.io/EjsS-2mass_spring_projectile/)
+
 [Spring with one end fixed](https://zdtan.github.io/EjsS-mass_spring_loop/)
 
 ### WordPress
