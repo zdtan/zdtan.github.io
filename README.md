@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Some physics simulations
+
+https://zdtan.github.io/EjsS-2bodygrav/
+https://zdtan.github.io/EjsS-2mass_spring_projectile/
+https://zdtan.github.io/EjsS-mass_spring_loop/
 
 You can use the [editor on GitHub](https://github.com/zdtan/zdtan.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
