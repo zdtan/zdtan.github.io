@@ -6,6 +6,8 @@
 
 [Spring with one end fixed](https://zdtan.github.io/EjsS-mass_spring_loop/)
 
+[1D collisions with quiz](https://zdtan.github.io/EjsS-1d-collisions/)
+
 ### WordPress
 
 [Link to my website](https://zdtan.wordpress.com/)
