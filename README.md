@@ -1,12 +1,12 @@
 ## Some physics simulations
 
-[Two-body gravitation](https://zdtan.github.io/EjsS-2bodygrav/)
+[Two-body gravitation](https://zdtan.github.io/2bodygrav/TwoBodyNewtonianGravitation.xhtml) and an [older version](https://zdtan.github.io/EjsS-2bodygrav/TwoBodyNewtonGravity.xhtml)
 
-[Two-body spring system](https://zdtan.github.io/EjsS-2mass_spring_projectile/)
+[Two-body spring system](https://zdtan.github.io/EjsS-2mass_spring_projectile/MassesAndSpringStringProjectile.xhtml)
 
-[Spring with one end fixed](https://zdtan.github.io/EjsS-mass_spring_loop/)
+[Spring with one end fixed](https://zdtan.github.io/EjsS-mass_spring_loop/MassAndSpringStringGravity.xhtml)
 
-[1D collisions with quiz](https://zdtan.github.io/EjsS-1d-collisions/)
+[1D collisions with quiz](https://zdtan.github.io/EjsS-1d-collisions/Collisions1D.xhtml)
 
 ### WordPress
 
